@@ -1,5 +1,5 @@
 @REQ_HU_001 @MarvelApi @agente1
-Feature: HU001 Pruebas CRUD a el api de marvel
+Feature: HU001 Pruebas CRUD en Marvel API
 
 Background:
   Given url 'http://bp-se-test-cabcd9b246a5.herokuapp.com/maamuril/api/characters'
